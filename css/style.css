@@ -32,14 +32,14 @@ a {
     font-weight: bold;
     color: #FFDE00;
 }
-    .Hint-highlight {
-        color: #10F0FE;
-    }
-    .Hint-credits {
-        padding-top: 32px;
-        padding-top: 2rem;
-        font-size: 9px;
-        font-size: .6rem;
-        font-weight: normal;
-        color: #aaa;
-    }
+.Hint-highlight {
+    color: #10F0FE;
+}
+.Hint-credits {
+    padding-top: 32px;
+    padding-top: 2rem;
+    font-size: 9px;
+    font-size: .6rem;
+    font-weight: normal;
+    color: #aaa;
+}
