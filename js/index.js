@@ -14,9 +14,9 @@ var FIELDVIEW = 60,
     CAMERA = new THREE.PerspectiveCamera(FIELDVIEW, RATIO, NEAR, FAR),
     SCENE = new THREE.Scene(),
     RENDERER = new THREE.WebGLRenderer({
-    alpha: true,
-    antialias: true
-});
+        alpha: true,
+        antialias: true
+    });
 
 RENDERER.setSize(WIDTH, HEIGHT);
 
